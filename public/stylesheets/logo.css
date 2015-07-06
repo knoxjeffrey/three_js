@@ -1,0 +1,23 @@
+#canvasID { 
+  height: 200px; 
+  width: 200px; 
+}
+
+#logoCanvas { 
+  width:700px; 
+  height:200px; 
+}
+
+#imgLogoText {
+  height: 60%; 
+  top: 25%; 
+  position:absolute; 
+}
+
+.centered {
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  margin-top: -100px;
+  margin-left: -350px;
+}
