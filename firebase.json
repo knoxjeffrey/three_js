@@ -1,0 +1,9 @@
+{
+  "firebase": "three-js-logo",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
